@@ -56,28 +56,28 @@ java -cp bin Main
 
 ## Team Member Names
 
-- Member 1: _______________________
-- Member 2: _______________________
-- Member 3: _______________________
-- Member 4: _______________________
+- Member 1: 
+- Member 2:
+- Member 3: 
+- Member 4: AM. Fathima Hanoof
 
 ## Student IDs
 
-- Member 1: _______________________
-- Member 2: _______________________
-- Member 3: _______________________
-- Member 4: _______________________
+- Member 1:
+- Member 2: 
+- Member 3: 
+- Member 4: 23DA2-0530
 
 ## Assigned Responsibilities
 
-- Member 1: _______________________
-- Member 2: _______________________
-- Member 3: _______________________
-- Member 4: _______________________
+- Member 1: 
+- Member 2: 
+- Member 3: 
+- Member 4: Graph implementation and traversal, Performance comparison, Main integration.
 
 ## Individual Contributions
 
-- Member 1: _______________________
-- Member 2: _______________________
-- Member 3: _______________________
-- Member 4: _______________________
+- Member 1: 
+- Member 2: 
+- Member 3: 
+- Member 4: Implemented CustomGraph (adjacency list) with add vertex, add edge and display, Implemented BFS    Using CustomQueue and DFS using CustomStack, Implemented PerformanceTracker, Integrated all components into the menu-driven Main application, Led the project.
