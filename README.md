@@ -57,14 +57,14 @@ java -cp bin Main
 ## Team Member Names
 
 - Member 1: AM. Fathima Rusna
-- Member 2:
+- Member 2: AM. Fathima Jesira
 - Member 3: 
 - Member 4: AM. Fathima Hanoof
 
 ## Student IDs
 
 - Member 1: 23DA2-0492
-- Member 2: 
+- Member 2: 23da2-0653
 - Member 3: 
 - Member 4: 23DA2-0530
 
