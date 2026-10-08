@@ -71,13 +71,13 @@ java -cp bin Main
 ## Assigned Responsibilities
 
 - Member 1: Array and Searching implementation and integration and testing.
-- Member 2: 
+- Member 2: Stack and Queue implementation, testing and integration.
 - Member 3: 
 - Member 4: Graph implementation and traversal, Performance comparison, Main integration.
 
 ## Individual Contributions
 
 - Member 1:  Implemented ArrayOperations: insert, delete, search, display, with full/empty/invalid-index handling and Implemented linear search (O(n)) and binary search (O(log n)) with step counting, Implemented a bubble-sort helper so binary search runs on sorted data and Tested and integrated array.
-- Member 2: 
+- Member 2: implemented Stack and Queue operations such as push, pop, peek, enqueue, dequeue, isFull and isEmpty. Handled overflow/underflow conditions, tested all operations and integrated Stack and Queue components into the main application. 
 - Member 3: 
 - Member 4: Implemented CustomGraph (adjacency list) with add vertex, add edge and display, Implemented BFS    Using CustomQueue and DFS using CustomStack, Implemented PerformanceTracker, Integrated all components into the menu-driven Main application, Led the project.
