@@ -1,5 +1,6 @@
 package datastructures;
 
+
 /**
  * Singly linked list implemented manually without java.util.LinkedList.
  * Supports insert, delete, search, and display with safe handling of missing values
